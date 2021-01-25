@@ -1,8 +1,10 @@
-### Hi there, i'm Ewerton Keiji Onga, nice to meet you! 👋
+### Hi there 👋
 
-I'm a frontend dev and i'm learning backend development
+My name is Ewerton Keiji Onga. I'm from Brazil. I'm a frontend dev at [HackrAds](https://www.linkedin.com/company/audience-hackr/) and i'm learning backend development
 
-  [![Ewerton Onga github stats](https://github-readme-stats.vercel.app/api?username=keijionga)](https://github.com/keijionga/github-readme-stats)
+📫 How to reach me:
+⋅⋅* [Linkedin](https://www.linkedin.com/in/ewerton-onga-7772a9125/).
+⋅⋅* [Instagram](https://www.instagram.com/keijihonga/?hl=pt-br).
 
 <!--
 **keijionga/keijionga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
