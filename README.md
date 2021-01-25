@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, i'm Ewerton Keiji Onga, nice to meet you! 👋
+
+I'm a frontend dev and i'm learning backend development
+
+  [![Ewerton Onga github stats](https://github-readme-stats.vercel.app/api?username=keijionga)](https://github.com/keijionga/github-readme-stats)
 
 <!--
 **keijionga/keijionga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
